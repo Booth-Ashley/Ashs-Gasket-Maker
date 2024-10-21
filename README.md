@@ -1,4 +1,6 @@
 # Ash's Gasket Maker
+![gasketmaker](https://github.com/user-attachments/assets/bae78acb-8d53-4931-9f72-08353511ff77) :arrow_right: :arrow_right: :arrow_right: 
+![result](https://github.com/user-attachments/assets/dc69b7b8-9b4e-4ac4-a9e1-9c170017a884)
 
 ## Description
 Ash's Gasket Maker is a simple, user-friendly application designed to create DXF files for custom gaskets. It allows users to specify the dimensions of a gasket, including the outer and inner diameters, as well as bolt hole patterns. This tool is perfect for engineers, makers, and DIY enthusiasts who need to quickly design custom gaskets for various projects.

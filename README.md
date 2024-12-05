@@ -1,6 +1,5 @@
 # Ash's Gasket Maker
-![gasket](https://github.com/user-attachments/assets/8c8c5e89-3dd9-4fc4-83de-7829e9a5a903)
-
+<a href="#"><img src="https://github.com/user-attachments/assets/8c8c5e89-3dd9-4fc4-83de-7829e9a5a903" /></a>
 
 
 ## Description
